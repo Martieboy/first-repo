@@ -1,3 +1,7 @@
 nqkakuv random file
+<<<<<<< HEAD
 s nurka
 g
+=======
+s bash
+>>>>>>> 46b63a7ec90c14f1dfcc353e2dbf450fa670a7f1
